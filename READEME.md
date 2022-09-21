@@ -1,6 +1,6 @@
 **Green Pace Developer: Security Policy Guide Template**
 
-![Green Pace logo](media/3de7d262fe89ebe1bff9c3fd7c95134a.png)
+![Green Pace Logo](https://user-images.githubusercontent.com/79807877/191565837-07bf93a2-cc3e-44c4-9082-a031321268b2.png)
 
 # Green Pace Secure Development Policy
 
